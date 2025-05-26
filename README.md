@@ -1,4 +1,4 @@
-# Teste_Tecnico_React_Node.js
+# Dashboard_Percentual_Desempenho_de_Participantes
 
 ## Sobre o Projeto
 - Esse projeto consiste em um layout feito com react.js recebendo dados de uma api feita com node.js e express onde mostra uma tabela e um gráfico no qual exibe o nome e o sobrenome de
